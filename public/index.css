@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(202, 228, 238);
+    text-align: center;
+}
+h1{
+    color: rgb(38, 38, 63);
+    padding: 2rem;
+}
+label{
+    font-size: large ;
+}
+input{
+    margin: 2%;
+    padding: 1rem;
+}
+button{
+    padding: 0 1rem;
+    color: rgb(180, 227, 236);
+    background-color: rgb(7, 7, 37);
+}
